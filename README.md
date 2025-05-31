@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou Pedro  
 
 - Sou estudante de Engenharia Elétrica na UFRN.
-- Tenho interesse em Machine Learning, IA e Sistemas Embarcados.  
+- Tenho interesse em IA, DSP e Sistemas Embarcados.  
 
 ## Habilidades  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
